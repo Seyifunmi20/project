@@ -1,0 +1,15 @@
+.navbar {
+    background-color:darkmagenta;
+    border-color:mn crimson;
+
+}
+/*
+.navbar-inverse{
+    background-color:orangered;
+    border-color: green;
+}
+*/
+#active{
+    background-color: darkturquoise;
+    border-color: brown
+}
